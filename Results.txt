@@ -1,0 +1,18 @@
+           Make|Year|Displacement|                                              Hash 
+         Subaru|2010|        2.60|Subaru20102.6Subaru20102.6ã°ÄBüûôÈo¹$'®AädL¤xR¸U 
+         Nissan|2019|        7.20|Nissan20197.2Nissan20197.2ã°ÄBüûôÈo¹$'®AädL¤xR¸U 
+         Subaru|2017|        8.00|Subaru20178Subaru20178ã°ÄBüûôÈo¹$'®AädL¤xR¸U 
+         Hummer|1991|        8.80|Hummer19918.8Hummer19918.8ã°ÄBüûôÈo¹$'®AädL¤xR¸U 
+     Mitsubishi|2010|        6.60|Mitsubishi20106.6Mitsubishi20106.6ã°ÄBüûôÈo¹$'®AädL¤xR¸U 
+     Studebaker|2001|        7.50|Studebaker20017.5Studebaker20017.5ã°ÄBüûôÈo¹$'®AädL¤xR¸U 
+      Chevrolet|1998|        3.40|Chevrolet19983.4Chevrolet19983.4ã°ÄBüûôÈo¹$'®AädL¤xR¸U 
+          Dodge|2010|        5.80|Dodge20105.8Dodge20105.8ã°ÄBüûôÈo¹$'®AädL¤xR¸U 
+        Lincoln|1991|        9.90|Lincoln19919.9Lincoln19919.9ã°ÄBüûôÈo¹$'®AädL¤xR¸U 
+            GMC|2016|        6.80|GMC20166.8GMC20166.8ã°ÄBüûôÈo¹$'®AädL¤xR¸U 
+      Chevrolet|2013|        3.40|Chevrolet20133.4Chevrolet20133.4ã°ÄBüûôÈo¹$'®AädL¤xR¸U 
+         Toyota|2017|        9.60|Toyota20179.6Toyota20179.6ã°ÄBüûôÈo¹$'®AädL¤xR¸U 
+  Mercedes-Benz|2016|        4.30|Mercedes-Benz20164.3Mercedes-Benz20164.3ã°ÄBüûôÈo¹$'®AädL¤xR¸U 
+           Ford|2010|        5.10|Ford20105.1Ford20105.1ã°ÄBüûôÈo¹$'®AädL¤xR¸U 
+      Chevrolet|2019|        2.20|Chevrolet20192.2Chevrolet20192.2ã°ÄBüûôÈo¹$'®AädL¤xR¸U 
+  Mercedes-Benz|2009|        2.90|Mercedes-Benz20092.9Mercedes-Benz20092.9ã°ÄBüûôÈo¹$'®AädL¤xR¸U 
+        Hyundai|2015|        3.80|Hyundai20153.8Hyundai20153.8ã°ÄBüûôÈo¹$'®AädL¤xR¸U 
